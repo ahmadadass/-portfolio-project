@@ -18,3 +18,4 @@ This is my personal portfolio website.
 
 Ahmed adas
 
+Learning how Git staging works.
